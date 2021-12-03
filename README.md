@@ -1,1 +1,8 @@
-avality-test-repo
+## Questions
+
+1. The project I am most proud of is my first professional project 'Hunkware'. This was the project I was assigned at College Hunks Hauling Junk and Moving. I was responsible for a complete rebuild of the companies internal business management software. I was able to build my skills with a 'trial by fire' style rebuild. This application had about 300 screens and hundreds of endpoints. I converted it from php/jquery to react/node. At the end of the project everyone in the business loved the updated software. It was a great start to my career.
+2. I have been getting into crypto recently. I would recommend that anyone with a bit of technical prowess and access to high end computer components look into mining cryptocurrencies. For people with less tech skills I would recommend looking into NFTs(non fungible tokens). A new layer to the economy is being built around us and I would recomend everyone try to get their piece of it.
+3. Avality is a piece of software that translates the paperwork doctors fill out into a format medical insurance companies can process. This allows for the smooth and efficient processing of medical insurance claims.
+4. To inspect the code look at the LISP.js file. To see the results check the console.
+5. To inspect the code look at the SignUp.js file. To view the screen run the  `yarn` then `yarn start`  and check localhost:3000
+6. I was unable to complete this challenge in a timely manner I'm happy to discuss my challenges in the interview that accompanies this. 
